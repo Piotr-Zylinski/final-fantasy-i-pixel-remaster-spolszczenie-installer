@@ -26,11 +26,12 @@ The translation replaces the English language (the game's default). Other langua
    - `pliki\font_de.bundle`, `font_en.bundle`, `font_es.bundle`, `font_fr.bundle`, `font_it.bundle`, `font_pt.bundle`
 3. Open `FF1PR_Instalator.iss` in **Inno Setup Compiler** and choose **Build -> Compile** (Ctrl+F9), or run from the script folder:
    `"C:\Program Files\Inno Setup 7\ISCC.exe" FF1PR_Instalator.iss`
-4. The result is `output\FF1PR_Spolszczenie_Instalator_v1.0.exe`.
+4. The result is `output\FF1PR_Spolszczenie_Instalator_v1.1.exe`.
 
 The game data files are not stored in this repository (they derive from the game's own files); only the installer source is public.
 
 ## Changelog
+- **v1.1** - improved translation of track titles in the music player.
 - **v1.0** - initial release, replacing English with Polish.
 
 ---
@@ -61,9 +62,10 @@ Spolszczenie zastępuje język angielski (domyślny język gry). Pozostałe jęz
    - `pliki\font_de.bundle`, `font_en.bundle`, `font_es.bundle`, `font_fr.bundle`, `font_it.bundle`, `font_pt.bundle`
 3. Otwórz `FF1PR_Instalator.iss` w **Inno Setup Compiler** i wybierz **Build -> Compile** (Ctrl+F9) albo uruchom w folderze skryptu:
    `"C:\Program Files\Inno Setup 7\ISCC.exe" FF1PR_Instalator.iss`
-4. Wynik: `output\FF1PR_Spolszczenie_Instalator_v1.0.exe`.
+4. Wynik: `output\FF1PR_Spolszczenie_Instalator_v1.1.exe`.
 
 Pliki danych gry nie są częścią repozytorium (pochodzą z plików gry); publiczny jest tylko kod źródłowy instalatora.
 
 ## Historia zmian
+- **v1.1** - poprawione tłumaczenie tytułów utworów w odtwarzaczu muzyki.
 - **v1.0** - pierwsze wydanie, zmieniające język angielski na polski.
