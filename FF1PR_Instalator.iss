@@ -15,7 +15,7 @@
 #define TextBundle    "message_assets_all_0fa953164799e15ca32394768bad704a.bundle"
 #define MissBundle    "miss_sprite_assets_all_bfad4e62c8010fe65066042f5e85ad90.bundle"
 #define HitBundle     "hit_sprite_assets_all_6380dd1917bb4b39bda7a83852ce0447.bundle"
-#define ModVersion    "1.0"
+#define ModVersion    "1.1"
 #define Prefix        "FF1PR"
 
 [Setup]
